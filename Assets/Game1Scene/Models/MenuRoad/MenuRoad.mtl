@@ -1,0 +1,14 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl bricksDark(Clone)
+Kd 0.073 0.641 0.136
+
+newmtl stoneDark(Clone)
+Kd 0.403 0.39 0.594
+
+newmtl stoneLight(Clone)
+Kd 0.152 0.152 0.152
+
+newmtl steel(Clone)
+Kd 0.3109752 0.3091847 0.3396226
+

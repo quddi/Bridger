@@ -1,0 +1,13 @@
+# Made using Asset Forge (2.1.1)
+
+:materials
+
+[name:_defaultMat;color:RGBA(0.939, 0.953, 1.000, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0.25;]
+
+:models
+
+[name:;collection:Primitives;type:block;position:(0.4000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.1000, 0.0100, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat;]
+[name:;collection:Primitives;type:block;position:(0.2000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.1000, 0.0100, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat;]
+[name:;collection:Primitives;type:block;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.1000, 0.0100, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat;]
+[name:;collection:Primitives;type:block;position:(-0.2000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.1000, 0.0100, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat;]
+[name:;collection:Primitives;type:block;position:(-0.4000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.1000, 0.0100, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat;]

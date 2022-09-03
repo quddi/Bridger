@@ -1,0 +1,17 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl wood(Clone)
+Kd 0.483 0.239 0.16
+
+newmtl custom10(Clone)
+Kd 0.255 0.138 0.1
+
+newmtl tan(Clone)
+Kd 0.933 0.835 0.663
+
+newmtl bricksDark(Clone)
+Kd 0.878 0.271 0.271
+
+newmtl _defaultMat(Clone)
+Kd 0.939 0.953 1
+

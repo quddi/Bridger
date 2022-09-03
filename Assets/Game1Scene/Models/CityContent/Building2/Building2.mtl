@@ -1,0 +1,38 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl stoneLight(Clone)
+Kd 0.71 0.701 0.84
+
+newmtl stoneDark(Clone)
+Kd 0.403 0.39 0.594
+
+newmtl stone(Clone)
+Kd 0.571 0.559 0.736
+
+newmtl custom14(Clone)
+Kd 0.5172414 0.1175549 0.1175549
+
+newmtl woodLight(Clone)
+Kd 0.816 0.58 0.42
+
+newmtl metal(Clone)
+Kd 0.58 0.569 0.769
+
+newmtl glass(Clone)
+Kd 1 1 1
+
+newmtl foliage(Clone)
+Kd 0 0.655 0.486
+
+newmtl foliageDark(Clone)
+Kd 0 0.528 0.478
+
+newmtl _defaultMat(Clone)
+Kd 0.939 0.953 1
+
+newmtl wood(Clone)
+Kd 0.655 0.134 0.134
+
+newmtl dark(Clone)
+Kd 0.224 0.235 0.275
+

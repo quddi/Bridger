@@ -1,0 +1,20 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl metalGreen(Clone)
+Kd 0.016 0.248 0.183
+
+newmtl metal(Clone)
+Kd 0.351 0.524 0.341
+
+newmtl _defaultMat(Clone)
+Kd 0.179 0.469 0.053
+
+newmtl tan(Clone)
+Kd 0.933 0.835 0.663
+
+newmtl bricksDark(Clone)
+Kd 0.878 0.271 0.271
+
+newmtl custom10(Clone)
+Kd 1 1 1
+

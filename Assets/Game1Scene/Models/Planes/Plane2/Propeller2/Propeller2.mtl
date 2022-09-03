@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl metalPurple(Clone)
+Kd 0.178 0 1
+
+newmtl metalOrange(Clone)
+Kd 1 0.702 0
+

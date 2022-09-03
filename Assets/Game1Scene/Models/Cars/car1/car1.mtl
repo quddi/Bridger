@@ -1,0 +1,20 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl metalGreen(Clone)
+Kd 1 0 0
+
+newmtl dark(Clone)
+Kd 0.11 0.11 0.11
+
+newmtl custom6(Clone)
+Kd 1 0.91 0
+
+newmtl lightRed(Clone)
+Kd 0.2689655 0.04768026 0.04768026
+
+newmtl glass(Clone)
+Kd 1 1 1
+
+newmtl metal(Clone)
+Kd 0.6068966 0.1682758 0.1682758
+

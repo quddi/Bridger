@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl _defaultMat(Clone)
+Kd 0.6784314 0.6862745 0.7176471
+
+newmtl stone(Clone)
+Kd 0.254902 0.254902 0.2901961
+

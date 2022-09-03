@@ -1,0 +1,14 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl woodLight(Clone)
+Kd 0.8156863 0.5803922 0.4196078
+
+newmtl wood(Clone)
+Kd 0.8396226 0.4347304 0.3049572
+
+newmtl bricksDark(Clone)
+Kd 0.8784314 0.2705882 0.2705882
+
+newmtl bricks(Clone)
+Kd 1 0.3921569 0.3058824
+
