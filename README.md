@@ -1,2 +1,2 @@
-# Fegs
- Fegs game for android
+# Bridger
+Bridger game for android
